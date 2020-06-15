@@ -71,7 +71,7 @@ email: "nkwangwenbin@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Visitors 
 ---
 
 I'm *Kenneth Wong*, namely *Wenbin Wang* (王文彬), a third-year Ph.D. student in the [Key Lab. of Intelligent Information Processing (IIP)](http://vipl.ict.ac.cn/) at [Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)](http://www.ict.ac.cn/), advised by Prof. [Xilin Chen](http://vipl.ict.ac.cn/people/~xlchen) and Prof. [Ruiping Wang](http://vipl.ict.ac.cn/homepage/rpwang/index.htm). My research interests lie in the field of Computer Vision, especially in enabling intelligent agents to sense and understand a real scene as we humans do. Before this, I was an undergraduate student of [Nankai University](https://www.nankai.edu.cn/) (NKU, 2013 - 2017), and received my B.Eng. degree in Computer Science and Technology.
