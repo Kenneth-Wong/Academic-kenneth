@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nkwangwenbin@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wenbin.wang@vipl.ict.ac.cn'
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com
