@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+**\[Jun. 15 ~ 19, 2019\]**: I attended the CVPR 2019 held in Long Beach, CA, U.S. 
+
 **\[Mar. 1, 2019\]**: One paper was accepted to **CVPR 2019**!
 
 **\[Sept. 1, 2017\]**: I joined the Key Lab. of IIP, ICT, CAS as a Ph.D. student. **Go Bears!**
