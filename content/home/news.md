@@ -47,8 +47,9 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "" 
 +++
+**\[Jul. 3, 2020\]**: One paper was accepted to **ECCV 2020**!
 
 **\[Jun. 15 ~ 19, 2019\]**: I attended the CVPR 2019 held in Long Beach, CA, U.S. 
 
