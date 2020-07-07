@@ -66,7 +66,9 @@ url_source = "http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "Supp", url = "http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Wang_Exploring_Context_and_CVPR_2019_supplemental.pdf"}]
+links = [{name = "Supp", url = "http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Wang_Exploring_Context_and_CVPR_2019_supplemental.pdf"},
+{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/document/8953893"}
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
