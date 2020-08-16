@@ -66,7 +66,7 @@ slides = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "arXiv", url = "https://scholar.google.com/"}]
+links = [{name = "arXiv", url = "https://arxiv.org/pdf/2007.08760.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
