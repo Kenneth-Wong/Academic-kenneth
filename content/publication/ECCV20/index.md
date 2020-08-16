@@ -55,11 +55,11 @@ slides = ""
 
 # Links (optional).
 #url_pdf = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.pdf"
-#url_code = "https://github.com/Kenneth-Wong/sceneGraph_Mem"
-#url_dataset = "#"
+url_code = "https://github.com/Kenneth-Wong/het-eccv20"
+url_dataset = "https://github.com/Kenneth-Wong/het-eccv20"
 #url_project = ""
-#url_slides = ""
-#url_video = "#"
+url_slides = "https://drive.google.com/file/d/1bbICb2oh4A4nLtSkf45mSBrxpksf7FNn/view?usp=sharing"
+url_video = "https://drive.google.com/file/d/1bbICb2oh4A4nLtSkf45mSBrxpksf7FNn/view?usp=sharing"
 #url_poster = "#"
 #url_source = "http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.html"
 
