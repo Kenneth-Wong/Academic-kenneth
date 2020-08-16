@@ -73,7 +73,6 @@ links = [{name = "arXiv", url = "https://arxiv.org/pdf/2007.08760.pdf"}]
 [image]
   # Caption (optional) 
   caption = ""
-  placement = 1
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
