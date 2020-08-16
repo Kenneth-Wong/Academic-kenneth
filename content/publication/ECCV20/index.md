@@ -31,7 +31,7 @@ summary = "Scene graph aims to faithfully reveal humans’ perception of image c
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = true  
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -66,13 +66,14 @@ slides = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "Coming Soon", url = "https://scholar.google.com/"}]
+links = [{name = "arXiv", url = "https://scholar.google.com/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional) 
   caption = ""
+  placement = 1
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

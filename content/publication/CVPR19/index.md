@@ -78,6 +78,6 @@ links = [{name = "Supp", url = "http://openaccess.thecvf.com/content_CVPR_2019/s
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Center"  
 +++
 
