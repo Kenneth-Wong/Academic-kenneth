@@ -28,7 +28,7 @@ abstract = "Relationship is the core of scene graph, but its prediction is far f
 summary = "Relationship is the core of scene graph, but its prediction is far from satisfying because of its complex visual diversity. To alleviate this problem, we treat relationship as an abstract object, exploring not only significative visual pattern but contextual information for it, which are two key aspects when considering object recognition. Our observation on current datasets reveals that there exists intimate association among relationships. Therefore, inspired by the successful application of context to object-oriented tasks, we especially construct context for relationships where all of them are gathered so that the recognition could benefit from their association."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/CVPR.2019.00838"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -66,8 +66,9 @@ url_source = "http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "Supp", url = "http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Wang_Exploring_Context_and_CVPR_2019_supplemental.pdf"},
-{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/document/8953893"}
+links = [{name = "supp", url = "http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Wang_Exploring_Context_and_CVPR_2019_supplemental.pdf"},
+{name = "IEEE Xplore", url = "https://ieeexplore.ieee.org/document/8953893"},
+{name="CVPR proc.", url = "https://ieeexplore.ieee.org/xpl/conhome/8938205/proceeding"}
 ]
 
 # Featured image

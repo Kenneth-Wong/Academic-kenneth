@@ -28,7 +28,7 @@ abstract = "Scene graph aims to faithfully reveal humans’ perception of image 
 summary = "Scene graph aims to faithfully reveal humans’ perception of image content. When humans analyze a scene, they usually prefer to describe image gist ﬁrst, namely major objects and key relations in a scene graph, which contains essential image content. This humans’ inherent perceptive habit implies that there exists a hierarchical structure about humans’ preference during the scene parsing procedure. Therefore, we argue that a desirable scene graph should be also hierarchically constructed, and introduce a new scheme for modeling scene graph."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/978-3-030-58601-0_14"
 
 # Is this a featured publication? (true/false)
 featured = true  
@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-#url_pdf = "http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.pdf"
+url_pdf = "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222.pdf"
 url_code = "https://github.com/Kenneth-Wong/het-eccv20"
 url_dataset = "https://github.com/Kenneth-Wong/het-eccv20"
 #url_project = ""
@@ -66,7 +66,10 @@ url_video = "https://drive.google.com/file/d/1bbICb2oh4A4nLtSkf45mSBrxpksf7FNn/v
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name = "arXiv", url = "https://arxiv.org/pdf/2007.08760.pdf"}]
+links = [{name = "arXiv", url = "https://arxiv.org/pdf/2007.08760.pdf"},
+{name="Springer", url = "https://link.springer.com/content/pdf/10.1007%2F978-3-030-58601-0_14.pdf"},
+{name="ECCV proc.", url = "https://link.springer.com/content/pdf/10.1007%2F978-3-030-58601-0.pdf"},
+{name="supp", url = "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222-supp.pdf" }]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
