@@ -144,7 +144,7 @@ $$
 
 </div>
 
-在这里，我们还可以对每一组解，都将$\mathbf{A}$的列重新排列一下，将解向量也排列一下，写成分块矩阵的形式，那么就会有$\mathbf{x}\_\mathbf{B}=\mathbf{B}^{-1}\mathbf{b}$和$ \mathbf{c}^T \mathbf{x}= \mathbf{c}^T\_{\mathbf{B}}\mathbf{B}^{-1}\mathbf{b}$。这是两个很有用的式子，在后面单纯形算法的理解上很有帮助，这里先记下。
+在这里，我们还可以对每一组解，都将$\mathbf{A}​$的列重新排列一下，将解向量也排列一下，写成分块矩阵的形式，那么就会有$\mathbf{x}\_\mathbf{B}=\mathbf{B}^{-1}\mathbf{b}​$和$ \mathbf{c}^T \mathbf{x}= \mathbf{c}^T\_{\mathbf{B}}\mathbf{B}^{-1}\mathbf{b}​$。这是两个很有用的式子，在后面单纯形算法的理解上很有帮助，这里先记下。
 
 <div align=center>
 
@@ -244,13 +244,13 @@ $$
 
 
 
-假设$\mathbf{B}=\\{\mathbf{a}_1, \mathbf{a}_2,\ldots, \mathbf{a}_m\\}$，那么对于任何一个非基向量$\mathbf{a}_e$，都有$\mathbf{a}\_e=\lambda\_1\mathbf{a}\_1+\ldots+\lambda\_m\mathbf{a}\_m$。将$\lambda$写完整：$\lambda=[\lambda\_1,\lambda\_2,\ldots,\lambda\_m,0,0,\ldots,-1,\ldots,0]^T$，差值
+假设$\mathbf{B}=\\{\mathbf{a}_1, \mathbf{a}_2,\ldots, \mathbf{a}_m\\}​$，那么对于任何一个非基向量$\mathbf{a}_e​$，都有$\mathbf{a}\_e=\lambda\_1\mathbf{a}\_1+\ldots+\lambda\_m\mathbf{a}\_m​$。将$\lambda​$写完整：$\lambda=[\lambda\_1,\lambda\_2,\ldots,\lambda\_m,0,0,\ldots,-1,\ldots,0]^T​$，差值
 $$
 \mathbf{c}^T\mathbf{x}'-\mathbf{c}^T\mathbf{x}=\mathbf{c}^T(-\theta\lambda)=\theta(\mathbf{c}\_e-\sum\_{\mathbf{a}\_i\in B}\lambda\_i\mathbf{c}\_i)
 $$
 
 
-因此我们要选使得这个值的绝对值最大的$\mathbf{a}_e$。那么什么时候表示找到最优值应该停止呢？很明显，就是对于所有$\mathbf{a}_e$，这个差值都大于等于0，即目标函数不再减小。因此，每次迭代，先计算差值，如果存在小于0的，就选一个使得差值绝对值最大的作为入基向量。
+因此我们要选使得这个值的绝对值最大的$\mathbf{a}_e​$。那么什么时候表示找到最优值应该停止呢？很明显，就是对于所有$\mathbf{a}_e​$，这个差值都大于等于0，即目标函数不再减小。因此，每次迭代，先计算差值，如果存在小于0的，就选一个使得差值绝对值最大的作为入基向量。
 
 
 
@@ -310,7 +310,7 @@ $$
 
 - 第10行，高斯行变换，你会发现这样操作完后，入基列就变成和刚才出基列一样，高斯行变换保证了矩阵的性质。
 
-- 第14行，我们知道$-z=0-\mathbf{c}_\mathbf{B}^T\mathbf{B}^{-1}\mathbf{b}$，由于旧有的基对应的$c$都是0，而只有新换入的向量对应的$c_e$不为0，具体写一下，减掉的那部分就只有$c_e$和他对应的解$b_l$的乘积了。同理，第16行，$\mathbf{c}^T-\mathbf{c}\_\mathbf{B}^T\mathbf{B}^{-1}\mathbf{A}$，由于也是只有$c_e$不为0，因此就和他对应的$\mathbf{A}$的第$l$行相乘了。
+- 第14行，我们知道$-z=0-\mathbf{c}_\mathbf{B}^T\mathbf{B}^{-1}\mathbf{b}​$，由于旧有的基对应的$c​$都是0，而只有新换入的向量对应的$c_e​$不为0，具体写一下，减掉的那部分就只有$c_e​$和他对应的解$b_l​$的乘积了。同理，第16行，$\mathbf{c}^T-\mathbf{c}\_\mathbf{B}^T\mathbf{B}^{-1}\mathbf{A}​$，由于也是只有$c_e​$不为0，因此就和他对应的$\mathbf{A}​$的第$l​$行相乘了。
 
 
 
@@ -318,7 +318,7 @@ $$
 
 
 
-到此，终于介绍完了单纯形算法。其他还有一些要注意的地方，比如一定要注意检验数和原目标函数的$\mathbf{c}$是完全不一样的概念，在原约束为不等式，需要加松弛变量的情况下，他们可能相等，但心里一定要区分它们，同时，这种情况下，基很容易找，就是松弛变量的那几列构成的单位阵。但是如果原约束是等式，就需要自己找基，并且这时检验数往往就和目标函数参数不同了。
+到此，终于介绍完了单纯形算法。其他还有一些要注意的地方，比如一定要注意检验数和原目标函数的$\mathbf{c}​$是完全不一样的概念，在原约束为不等式，需要加松弛变量的情况下，他们可能相等，但心里一定要区分它们，同时，这种情况下，基很容易找，就是松弛变量的那几列构成的单位阵。但是如果原约束是等式，就需要自己找基，并且这时检验数往往就和目标函数参数不同了。
 
 
 
