@@ -541,4 +541,5 @@ W-MSA的不足就不同window之间是没有交流的，因此，SW-MSA紧接在
 
 
 [1]: https://arxiv.org/pdf/2103.14030v1.pdf	"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows, Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, arXiv 2021."
-[2]: https://arxiv.org/pdf/2012.12877.pdf	"Training data-efficient image transformers and distillation through attention, 2020"
+[2]: https://arxiv.org/pdf/2010.11929.pdf	"AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE, ICLR 2021."
+[3]: https://arxiv.org/pdf/2012.12877.pdf	"Training data-efficient image transformers and distillation through attention, 2020"
