@@ -18,7 +18,7 @@ authors = ["Wenbin Wang", "Ruiping Wang","Shiguang Shan","Xilin Chen"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In [*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (2019)*](http://cvpr2019.thecvf.com/)"
+publication = "In [*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*](http://cvpr2019.thecvf.com/)"
 publication_short = "In *CVPR 2019, Long Beach, California, USA*"
 
 # Abstract.
