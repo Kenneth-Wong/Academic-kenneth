@@ -54,24 +54,24 @@ projects = []
 slides = ""
 
 # Links (optional).
-#url_pdf = "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222.pdf"
-#url_code = "https://github.com/Kenneth-Wong/het-eccv20"
-#url_dataset = "https://github.com/Kenneth-Wong/het-eccv20"
+url_pdf = "https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.pdf"
+url_code = "https://github.com/Kenneth-Wong/MMSceneGraph"
+#url_dataset = ""
 #url_project = ""
-#url_slides = "https://drive.google.com/file/d/1_47wtPPesR5C2Oz9uD2Poi-ANXzv07Yh/view?usp=sharing"
-#url_video = "https://drive.google.com/file/d/1bbICb2oh4A4nLtSkf45mSBrxpksf7FNn/view?usp=sharing"
+#url_slides = ""
+#url_video = ""
 #url_poster = "#"
-#url_source = "http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Exploring_Context_and_Visual_Pattern_of_Relationship_for_Scene_Graph_CVPR_2019_paper.html"
+url_source = "https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Topic_Scene_Graph_Generation_by_Attention_Distillation_From_Caption_ICCV_2021_paper.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Custom Link", url = "http://example.org"}]
-links = [{name="Coming soon", url=""},
-#{name = "arXiv", url = "https://arxiv.org/pdf/2007.08760.pdf"},
-#{name="Springer", url = "https://link.springer.com/content/pdf/10.1007%2F978-3-030-58601-0_14.pdf"},
-#{name="ECCV proc.", url = "https://link.springer.com/content/pdf/10.1007%2F978-3-030-58601-0.pdf"},
-#{name="supp", url = "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580222-supp.pdf" }
+links = [
+#{name = "arXiv", url = ""},
+#{name="IEEE Xplore", url = ""},
+{name="supp", url = "https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_Topic_Scene_Graph_ICCV_2021_supplemental.pdf" }
 ]
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
