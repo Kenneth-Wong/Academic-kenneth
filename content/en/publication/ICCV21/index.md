@@ -28,7 +28,7 @@ abstract = "If an image tells a story, the scene graph and image caption are the
 summary = "If an image tells a story, the scene graph and image caption are the most popular narrators. Generally, a scene graph prefers to be an omniscient generalist, while the image caption is more willing to be a specialist, which outlines the gist. Lots of previous studies have found that as a generalist, a scene graph is not enough to serve for downstream advanced intelligent tasks unless it can reduce the trivial contents and noises. In this respect, the image caption is a good teacher. To this end, we let the scene graph borrow the ability from the image caption."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/ICCV48922.2021.01560"
 
 # Is this a featured publication? (true/false)
 featured = true  
