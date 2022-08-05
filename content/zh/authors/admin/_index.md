@@ -77,7 +77,7 @@ user_groups:
 - Visitors 
 ---
 
-王文彬（Kenneth Wong）目前是中国科学院计算技术研究所智能信息处理重点实验室视觉研究组（[VIPL](http://vipl.ict.ac.cn/)）一名五年级的博士研究生，指导老师为[陈熙霖](http://vipl.ict.ac.cn/people/~xlchen)研究员和[王瑞平](http://vipl.ict.ac.cn/homepage/rpwang/index.htm)研究员. 他的研究方向包括但不限于2D/3D场景理解、物体检测、场景图生成以及图像标题生成。在此之前（2013-2017），他在[南开大学计算机与控制工程学院](https://cc.nankai.edu.cn/)获得工程学士学位（计算机科学与技术专业）。
+王文彬（Kenneth Wong）目前是中国科学院计算技术研究所智能信息处理重点实验室视觉研究组（[VIPL](http://vipl.ict.ac.cn/)）一名五年级的博士研究生，指导老师为[陈熙霖](http://vipl.ict.ac.cn/people/~xlchen)研究员和[王瑞平](https://rpwang.net/research.htm)研究员. 他的研究方向包括但不限于2D/3D场景理解、物体检测、场景图生成以及图像标题生成。在此之前（2013-2017），他在[南开大学计算机与控制工程学院](https://cc.nankai.edu.cn/)获得工程学士学位（计算机科学与技术专业）。
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "files/cv-zh.pdf" "newtab" >}}简历{{< /staticref >}}.  
 
