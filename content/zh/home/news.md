@@ -49,6 +49,12 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+**\[Sept. 26, 2022\]**: I joined Huawei Noah's Ark Lab.
+
+**\[Sept. 18, 2022\]**: I obtained my Ph.D. degree from ICT, CAS.
+
+**\[Jul. 19, 2022\]**: One paper was accepted to **SCIENTIA SINICA Informationis**.
+
 **\[Jul. 23, 2021\]**: One paper was accepted to **ICCV 2021**!
 
 **\[Aug. 10, 2020\]**: The code of our HetH (ECCV 2020) was released.
