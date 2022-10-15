@@ -29,7 +29,7 @@ education:
   courses:
   - course: 博士研究生，计算机视觉方向
     institution: 中国，北京市，中国科学院计算技术研究所
-    year: 2017 -
+    year: 2017 - 2022
 
   - course: 本科生，工学学士学位（计算机科学与技术）
     institution: 中国，天津市，南开大学

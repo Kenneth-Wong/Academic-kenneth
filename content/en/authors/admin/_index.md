@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Computer Vision / Artificial Intelligence
     institution: Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
-    year: 2017 -
+    year: 2017 - 2022
 
   - course: B.Eng. in Computer Science and Technology
     institution: Nankai University, Tianjin, China
