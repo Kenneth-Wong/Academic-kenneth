@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student 
+role: Senior Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name:  ICT, CAS
+- name:  Huawei Noah's Ark Lab
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
