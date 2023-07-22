@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+**\[May. 9, 2023\]**: One paper was accepted to **International Journal of Computer Vision (IJCV)**.
+
 **\[Sept. 26, 2022\]**: I joined Huawei Noah's Ark Lab.
 
 **\[Sept. 18, 2022\]**: I obtained my Ph.D. degree from ICT, CAS.
